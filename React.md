@@ -9,3 +9,7 @@ All things related to React.
 ## Talks
 
 - https://www.youtube.com/playlist?list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ Playlist to talks on React Conf from late October 2018 in Henderson, Nevada.
+
+## Blogs
+
+- https://daveceddia.com/
