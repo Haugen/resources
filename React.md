@@ -5,6 +5,7 @@ All things related to React.
 ## Video tutorials
 
 - https://www.udemy.com/react-the-complete-guide-incl-redux/learn/v4 Longer video tutorial with React.
+- https://egghead.io/courses/getting-started-with-redux Getting started with Redux in React, video tutorials by Dan Abramov.
 
 ## Talks
 
