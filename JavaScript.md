@@ -2,6 +2,22 @@
 
 All things related to vanilla JavaScript.
 
+## Bundlers
+
+- https://webpack.js.org/
+- https://parceljs.org/
+- http://browserify.org/
+
+## Code quality and formatting
+
+- https://prettier.io/ Formats your code. Yum!
+- https://eslint.org/ ESlint seams to be the big thing. JSlint and JShint are two other alternatives.
+
+## Testing
+
+- https://facebook.github.io/jest/
+- http://airbnb.io/enzyme/docs/api/
+
 ## Text guides
 
 - http://javascript.info/ Long guide for modern, vanilla javascript.
