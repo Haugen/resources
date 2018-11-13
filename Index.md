@@ -8,6 +8,7 @@ A nice little place for friends to gather useful links and resources related to 
 - [React](React.md)
 - [Deployment](Deployment.md)
 - [Cloud Services](CloudServices.md)
+- [Commands](Commands.md)
 
 ## General
 
@@ -17,5 +18,6 @@ A nice little place for friends to gather useful links and resources related to 
 - https://refactoring.guru/ Got recommended this website for knowledge on design patterns.
 - https://carbon.now.sh/ Create and share beautiful images of your source code.
 - https://scotch.io/ Very nice blog on front end stuff.
+- https://www.getpostman.com/ Postman Makes API Development Simple, or so they say.
 
 I should probably keep thinking about how to structure these links...
