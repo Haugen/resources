@@ -5,6 +5,13 @@ All things related to React.
 ## Component libraries
 
 - https://ant.design/docs/react/introduce
+- https://material-ui.com/
+- https://react-bootstrap.github.io/
+
+# Nice and useful
+
+- https://github.com/reactjs/react-transition-group An easy way to perform animations when a React component enters or leaves the DOM.
+- https://github.com/atlassian/react-beautiful-dnd Beautiful and accessible drag and drop for lists with React.
 
 ## Video tutorials
 
