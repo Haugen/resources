@@ -19,5 +19,13 @@ A nice little place for friends to gather useful links and resources related to 
 - https://carbon.now.sh/ Create and share beautiful images of your source code.
 - https://scotch.io/ Very nice blog on front end stuff.
 - https://www.getpostman.com/ Postman Makes API Development Simple, or so they say.
+- https://httpie.org/ CLI for speaking to APIs. Similar to Postman?
+- https://jwt.io/ JSON Web Tokens are a method for representing claims securely between two parties.
+
+## Template engines
+
+- https://ejs.co/ Embedded JavaScript templating. Normal HTML, injected with JavaScript.
+- https://pugjs.org/ Custom html and custom scripting language.
+- https://handlebarsjs.com/ Normal HTML, custom scripting language.
 
 I should probably keep thinking about how to structure these links...

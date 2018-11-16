@@ -16,6 +16,9 @@ Updating a single global package
 Updating all global packages
 `npm update -g`
 
+Removing a single global package
+`npm uninstall -g <package_name>`
+
 ## n (Node version manager)
 
 Installing the latest official release
@@ -26,3 +29,8 @@ Installing/Activating versions
 
 Removing versions
 `n rm 8.12.0`
+
+## VS Code
+
+Smileys!!! 🐻
+`cmd + ctrl + space`
