@@ -30,6 +30,13 @@ Installing/Activating versions
 Removing versions
 `n rm 8.12.0`
 
+## Homebrew
+
+Homebrew cheat sheet: https://devhints.io/homebrew
+
+List all installed packages, excluding dependencies
+`brew leaves`
+
 ## VS Code
 
 Smileys!!! 🐻
