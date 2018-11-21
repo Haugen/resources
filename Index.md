@@ -6,6 +6,7 @@ A nice little place for friends to gather useful links and resources related to 
 
 - [Vanilla JavaScript](JavaScript.md)
 - [React](React.md)
+- [WASM](WASM.md)
 - [Deployment](Deployment.md)
 - [Cloud Services](CloudServices.md)
 - [Commands](Commands.md)
