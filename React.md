@@ -25,3 +25,4 @@ All things related to React.
 ## Blogs
 
 - https://daveceddia.com/
+- https://overreacted.io/ The Dan Abramov explains React things with words and code.
