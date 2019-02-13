@@ -41,3 +41,8 @@ List all installed packages, excluding dependencies
 
 Smileys!!! 🐻
 `cmd + ctrl + space`
+
+## Git
+
+Push a subfolder of a repository. Great for Heroku etc.
+`git subtree push --prefix <folder> heroku master`
